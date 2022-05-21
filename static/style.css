@@ -1,0 +1,569 @@
+*{
+    margin : 0;
+    padding : 0;
+    
+}
+body{
+    background-color: white;
+}
+
+#zero{
+    background-color: rgb(108, 18, 108);
+    position: relative;
+    width : 1150px;
+    height: 50px;
+}
+#zero ul{
+    position: relative;
+    display: flex;
+    color: #fff;
+    left: 525px;
+    top: 15px;
+    list-style: none;
+    
+}
+#zero ul li a{
+    list-style: none;
+    margin-left: 75px;
+    text-decoration: none;
+    color: #fff;
+    
+}
+#zero ul li a:hover{
+    font-size: 20px;
+}
+#one{
+    background-color: purple;
+    position: relative;
+    width : 1150px;
+    height: 100px;
+}
+#one ul{
+    position: relative;
+    display: flex;
+    color: #fff;
+    left: 50px;
+    top: 50px;
+}
+#one ul li{
+    list-style: none;
+}
+#head{
+    position: relative;
+    font-size: 40px;
+    left: 70px;
+    top: -20px;
+}
+#two ul{
+    position: relative;
+    display: flex;
+    float: right;
+    top: -50px;
+    font-size: 20px;
+    left: -100px;
+    list-style: none;
+}
+#two ul li a{
+    
+    list-style: none;
+    color: #fff;
+    margin-left: 50px;  
+    text-decoration: none; 
+}
+#two ul li a:hover{
+    border: 3px solid white;
+    border-top: 5px;
+    border-left: 5px;
+    border-right: 5px;
+}
+#cont label{
+    position: relative;
+    padding: 20px;
+}
+#cont input{
+    border-radius: 5px;
+    border-style: none;
+}
+#cont{
+    width: 400px;
+    height:350px;
+    position: relative;
+    background-color: #ccc;
+    line-height: 20px;
+    color: rgb(55, 48, 48);
+    font-family: fantasy;
+    border-radius: 20px;
+    left: 400px;
+    top: -2500px;
+    display: none;
+   
+}
+
+
+
+#name{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#email{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#pn{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#desc{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#text1{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    width: 300px;
+    height: 20px;
+    
+    
+}
+#text2{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    width: 300px;
+    height: 20px;
+}
+#text3{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    width: 300px;
+    height: 20px;
+}
+#text4{
+    position: relative;
+    left: 40px;
+    top: 30px;
+    width: 300px;
+    height: 50px;
+}
+
+#sub{
+    background-color: purple;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 40px;
+    border-style: none;
+    width: 300px;
+    
+}
+
+#img1{
+    position: relative;
+    top:-20px;
+
+}
+#contentimg{
+    color: #fff;
+    position: relative;
+    top: -600px;
+    left: 600px;
+}
+#btn1{
+    
+    position: relative;
+    color: black;
+    background-color: #fff;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    border-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+#btn1 a{
+    text-decoration: none;
+    color: black;
+    
+}
+#icon{
+    position: relative;
+    top: -20px;
+    left: 50px;
+}
+#our{
+    position: relative;
+    top: -150px;
+    
+}
+#our #sec1{
+    position: relative;
+    top: 0px;
+    background-color: red;
+    border-style: none;
+    color: #ccc;
+    
+}
+#para1::first-letter{
+    font-size: 40px;
+    color: red;
+    font-family: cursive;
+}
+h2{
+    font-size: 40px;
+    color: red;
+}
+#our p1{
+    width: 100px;
+    height: 100px;
+}
+#three ul{
+    display: flex;
+    position: relative;
+    left: -50px;
+    list-style: none;
+}
+#three ul li{
+    margin-left: 100px;
+}
+
+#heading2 ul{
+    display: flex;
+    position: relative;
+    left: 250px;
+    list-style: none;
+}
+#heading2 ul li{
+    margin-left: 100px;
+}
+#ser{
+    position: relative;
+    left: -300px;
+    font-size: 40px;
+    color: #ccc;
+    width: 250px;
+    text-align: center;
+    background-color: red;
+    font-weight: bold;
+}
+#pro{
+    position: relative;
+    left: -300px;
+    font-size: 40px;
+    color: #ccc;
+    background-color: red;
+    width: 250px;
+    text-align: center;
+    font-weight: bold; 
+}
+#gal{
+    position: relative;
+    left: -300px;
+    font-size: 40px;
+    color: #ccc;
+    background-color: red;
+    width: 250px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+#readmore ul{
+    display: flex;
+    list-style: none;
+}
+#readmore ul li{
+    margin-left: 100px;
+}
+#r1{
+    position: relative;
+    left: -50px;
+    padding: 20px;
+    background-color: red;
+    color: #fff;
+    
+}
+#r1 a{
+    text-decoration: none;
+    color: #ccc;
+}
+#production3 a{
+    text-decoration: none;
+    color: #ccc;
+}
+#r3 a{
+    text-decoration: none;
+    color: #ccc;
+}
+
+#production3{
+    position: relative;
+    left: 90px;
+    padding: 20px;
+    background-color: red;
+    color: #fff;
+}
+
+#r3{
+    position: relative;
+    left: 225px;
+    padding: 20px;
+    background-color: red;
+    color: #fff;
+}
+#footer{
+    background-color: black;
+    color: #ccc;
+    position: relative;
+    top: 40px;
+    width: 1150px;
+    height: 300px;
+}
+
+#address{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+#time{
+    position: relative;
+    top: -140px;
+    left: 300px;
+}
+#time ul{
+    list-style: none;
+}
+#menu2{
+    position: relative;
+    top: -290px;
+    left: 550px;
+}
+#menu2 ul{
+    list-style: none;
+}
+#menu2 ul li a{
+    text-decoration: none;
+    color: #ccc;
+}
+#newletter{
+    position: relative;
+    top: -370px;
+    left: 700px;
+}
+.e1{
+    background-color: transparent;
+    color: #ccc;
+    position: relative;
+    top: 20px;
+    width: 200px;
+    height: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#facebook{
+    position: relative;
+    top: 60px;
+    color: rgb(116, 96, 96);
+    background-color: #ccc;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 10px;
+
+
+}
+#instagram{
+    position: relative;
+    border-radius: 5px;
+    top: 60px;
+    font-size: 30px;
+    left: 10px;
+    color: rgb(116, 96, 96);
+    background-color: #ccc;
+    padding: 8px;
+}
+#menu{
+    position: relative;
+    font-size: 30px;
+    top: -10px;
+    color: #ccc;
+}
+#menu a{
+    color: #ccc;
+}
+#head{
+    position: relative;
+    left: 20px;
+}
+
+
+
+
+
+#con{
+    position: relative;
+    color: #ccc;
+    font-size: 70px;
+    top: -500px;
+    left: 410px;
+    font-family: cursive;
+    text-shadow: 0 0 10px aqua,
+		            0 0 20px aqua
+		            0 0 40px aqua,
+		            0 0 80px aqua,
+		            0 0 120px aqua;
+}
+#homecon{
+    position: relative;
+    font-size: 30px;
+    top: -580px;
+    left: 980px;
+    color: #ccc;
+}
+#address1{
+    position: relative;
+    font-size: 20px;
+    color: #fff;
+    top: -500px;
+    left: 400px;
+}
+#contactcon{
+    position: relative;
+    font-size: 20px;
+    color: #fff;
+    top: -660px;
+    left: 650px;
+}
+#socialmedia{
+    position: relative;
+    top: -630px;
+    left: 650px;
+
+}
+
+#close1{
+    background-color: #ccc;
+    color: black;
+    padding: 10px;
+    top: 100px;
+    left: -130px;
+    border-radius: 50%;
+    position: relative;
+    border-color: black;
+    border: 3px solid black;
+}
+#close1 a{
+    border-color: black;
+    color: black;
+    
+}
+#arrow{
+    position: relative;
+    left: 30px;
+    top: -17px;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 5px;
+    width: 10px;
+    height: 35px;
+    font-weight: bold;
+    color: #ccc;
+    background-color: black
+
+}
+#arrow a{
+    text-decoration: none;
+    
+    color: blue;
+}
+
+
+#facebookcon{
+    position: relative; 
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#emails{
+    position: relative;
+    color: rgb(75, 58, 58);
+    font-size: 30px;
+
+}
+
+#whatsapp{
+    position: relative;
+    color: rgb(75, 58, 58);
+    font-size: 30px;
+    
+}
+#instagrams{
+    position: relative;
+    color: rgb(75, 58, 58);
+    font-size: 30px;
+    
+}
+#facebooks{
+    position: relative;
+    color: rgb(75, 58, 58);
+    font-size: 30px;
+    
+}
+
+#whatsappimg{
+    position: fixed;
+    top: 200px;
+    left: 1000px;
+}
+
+#emailimg{
+    position: fixed;
+    top: 227px;
+    left: 1000px;
+}
+#facebookimg{
+    position: fixed;
+    top: 255px;
+    left: 1000px;
+}   
+#instagramimg{
+    position: fixed;
+    top: 285px;
+    left: 1000px;
+}
+#para1{
+    text-align: justify;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#contactus{
+    position: relative;
+    top: -730px;
+    left: 200px;
+}
+#followcontact{
+    color: #ccc;
+}
+#vallabeimg{
+    position: relative;
+    top: -50px;
+    left: 15px;
+}

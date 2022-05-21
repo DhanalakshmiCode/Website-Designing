@@ -1,0 +1,646 @@
+
+
+.menu1{
+    position: relative;
+    top: -2860px;
+    display: none;
+    
+
+}
+.menu1 ul{
+    position: relative;
+}
+.menu1 ul li {
+    background-color: purple;
+    border-style: none;
+    border-color: purple;
+    width: 200px;
+    font-family: cursive;
+    text-align: center;
+    color: #ccc;
+    padding: 5px;
+    margin: 5px;
+    height: 30px;
+    font-size: 20px;
+    line-height: -25px;
+    top: 10px;
+    border-radius: 25%;
+    
+    font-weight: bolder;
+}
+.menu1 ul li a{
+    text-decoration: none;
+    color: #ccc;
+}
+.menu1 ul li a:hover{
+    color: #ccc;
+    text-shadow: 0 0 10px #ccc,
+		            0 0 20px #ccc,
+		            0 0 40px #ccc,
+		            0 0 80px #ccc,
+		            0 0 120px #ccc;
+}
+#close2{
+    position: relative;
+    left: 90px;
+    top: 10px;
+    color: #ccc;
+    background-color: purple;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 5px;
+    width: 50px;
+}
+#close2 a{
+    position: relative;
+    text-decoration: none;
+    color: #ccc;
+    
+
+}
+#heading1{
+    position: relative;
+    top: -530px;
+    width: 1110px;
+    text-align: center;
+    background-color: #ccc;
+    font-family: cursive;
+    
+}
+
+
+#footer{
+    background-color: black;
+    color: #ccc;
+    position: relative;
+    top: 40px;
+    width: 1150px;
+    height: 300px;
+}
+
+#address{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+#time{
+    position: relative;
+    top: -140px;
+    left: 300px;
+}
+#time ul{
+    list-style: none;
+}
+#menu2{
+    position: relative;
+    top: -270px;
+    left: 550px;
+}
+#menu2 ul{
+    list-style: none;
+}
+#menu2 ul li a{
+    text-decoration: none;
+    color: #ccc;
+}
+#newletter{
+    position: relative;
+    top: -370px;
+    left: 700px;
+}
+.e1{
+    background-color: transparent;
+    color: #ccc;
+    position: relative;
+    top: 20px;
+    width: 200px;
+    height: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#facebook{
+    position: relative;
+    top: 60px;
+    color: rgb(116, 96, 96);
+    background-color: #ccc;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 10px;
+
+
+}
+#instagram{
+    position: relative;
+    border-radius: 5px;
+    top: 60px;
+    font-size: 30px;
+    left: 10px;
+    color: rgb(116, 96, 96);
+    background-color: #ccc;
+    padding: 8px;
+}
+
+
+
+
+#img{
+    position: relative;
+    left: -10px;
+    top: -10px;
+}
+
+
+#H1{
+    color: white;
+    background-color: transparent;
+    position: relative;
+    top: -530px;
+    text-align: center;
+    left: -10px;
+    width: 1152px;
+    font-size: 80px;
+    font-family: cursive;
+    text-shadow: 0 0 10px orangered,
+		            0 0 20px orangered,
+		            0 0 40px orangered,
+		            0 0 80px orangered,
+		            0 0 120px orangered;
+
+}
+#homes{
+    position: relative;
+    top: -1000px;
+    color: black;
+    font-size: 40px;
+    left: 990px;
+}
+#map{
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+
+
+#H2{
+    position: relative;
+    top: -190px;
+    background-color: #ccc;
+    text-align: center;
+    font-family: cursive;    
+}
+#content1{
+    position: relative;
+    top: -1100px;
+    left: -40px;
+
+}
+#content1 ul{
+    position: relative;
+    list-style: none;
+}
+#content1 ul li {
+    background-color: transparent;
+    width: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    height: 40px;
+    font-size: 20px;
+    line-height: -25px;
+    top: 10px;
+    border-radius: 25%;
+    border: 3px solid black;
+    font-weight: bolder;
+}
+#content1 ul li a{
+    text-decoration: none;
+    color: black;
+}
+#content1 ul li a:hover{
+    color: orangered;
+    font-size: 30px;
+    text-shadow: 0 0 10px white,
+		            0 0 20px white,
+		            0 0 40px white,
+		            0 0 80px white,
+		            0 0 120px white;
+
+}
+#sec1{
+    position: relative;
+    top: -860px;
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+}
+#facial ul li{
+    position: relative;
+    top: -850px;
+    left: -40px;
+    background-color: pink;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+#sec2{
+    position: relative;
+    top: -850px;
+    background-color: aqua;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+}
+#bleach ul li{
+    position: relative;
+    top: -850px;
+    left: -40px;
+    background-color: aqua;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#sec3{
+    position: relative;
+    top: -850px;
+    left: 0px;
+    background-color: burlywood;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+ 
+}
+#wax ul li{
+    position: relative;
+    top: -850px;
+    left: -40px;
+    background-color: burlywood;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+#sec4{
+    position: relative;
+    top: -850px;
+    background-color: greenyellow;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+    
+}
+#Treatment ul li{
+    position: relative;
+    top: -850px;
+    left: -40px;
+    background-color: greenyellow;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+#sec5{
+    position: relative;
+    top: -850px;
+    left: 0px;
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+    
+}
+#Makeup ul li{
+    position: relative;
+    top: -850px;
+    left: -40px;
+    background-color: yellow;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+#sec6{
+    position: relative;
+    top: -4010px;
+    left: 600px;
+    background-color: lavenderblush;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+    
+}
+#hair ul li{
+    position: relative;
+    top: -4000px;
+    left: 560px;
+    background-color: lavenderblush;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+#sec7{
+    position: relative;
+    top: -4000px;
+    left: 600px;
+    background-color: rgb(191, 174, 208);
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+    
+}
+#Spa ul li{
+    position: relative;
+    top: -4000px;
+    left: 560px;
+    background-color: rgb(191, 174, 208);
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+
+#sec8{
+    position: relative;
+    top: -4000px;
+    left: 600px;
+    background-color: peru;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+    
+}
+#mehandi ul li{
+    position: relative;
+    top: -4000px;
+    left: 560px;
+    background-color: peru;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+#sec9{
+    position: relative;
+    top: -4000px;
+    left: 600px;
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 5px solid goldenrod;
+    color: black;
+    font-size: 30px;
+    
+}
+#others ul li{
+    position: relative;
+    top: -4000px;
+    left: 560px;
+    background-color: pink;
+    width: 350px;
+    padding: 20px;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+#follow{
+    font-size: 20px;
+    color: #ccc;
+}
+#back{
+    position: relative;
+    top: -3900px;
+    left: 800px;
+    text-decoration: none;
+    background-color: peru;
+    color: #ccc;
+    padding: 10px;
+    border: 3px solid #ccc;
+}
+#courses{
+    display: none;
+    position: relative;
+    background-color: dimgrey;
+    width: 700px;
+    height: 500px;
+    left: 200px;
+    top: -2800px;
+}
+#courseh1{
+    text-align: center;
+    color: #ccc;
+    position: relative;
+    top: 40px;
+    font-size: 40px;
+}
+#couses ul{
+    padding: 20px;
+    left: 50px;
+    
+   
+}
+#courses ul li{
+    padding: 20px;
+    width: 500px;
+    border: 3px solid #ccc;
+    margin-top: 20px;
+    height: 30px;
+    list-style: none;
+    color: #ccc;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;   
+}
+#courul{
+    position: relative;
+    top: 50px;
+    left: 35px;
+}
+#courbt{
+    position: relative;
+    top: -300px;
+    left: 550px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-style: none;
+    background-color: transparent;
+    
+
+}
+#courbt a{
+    text-decoration: none;
+    color: #ccc;
+    
+}
+#products{
+    position: relative;
+    background-color: dimgrey;
+    width: 750px;
+    height: 350px;
+    top: -2700px;
+    left: 150px;
+    display: none;
+}
+#producth1{
+    position: relative;
+    font-size: 40px;
+    color: #ccc;
+    text-align: center;
+}
+#proimg{
+    position: relative;
+    display: flex;
+    left: -7px;
+}
+#pro1{
+    padding: 20px;
+    
+
+}
+#pro2{
+    padding: 20px;
+}
+#pro3{
+    padding: 20px;
+}
+#pro4{
+    padding: 20px;
+}
+#proul ul{
+    position: relative;
+    display: flex;
+    list-style: none;
+    
+}
+#proul ul li{
+    padding: 20px;
+    background-color: slategrey;
+    color: #ccc;
+    margin-left: 20px;
+}
+#l1{
+    position: relative;
+    left: -7px;
+    width: 110px;
+    top: -20px;
+    
+    
+    
+}
+#l2{
+    position: relative;
+    left: 12px;
+    top: -20px;
+    width: 110px;
+    
+}
+#l3{
+    position: relative;
+    left: 30px;
+    top: -20px;
+    width: 110px;
+    
+}
+#l4{
+    position: relative;
+    left: 45px;
+    top: -20px;
+    width: 109px;
+    
+}
+#probt{
+    position: relative;
+    text-decoration: none;
+    background-color: transparent;
+    border-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    top: -300px;
+    left: 700px;
+    
+}
+#probt{
+    color: #ccc;
+}
